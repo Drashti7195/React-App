@@ -1,0 +1,2 @@
+export const STORE_USER_LIST = "STORE_USER_LISTs";
+export const STORE_GET_USER_DATA = "STORE_GET_USER_DATA";
