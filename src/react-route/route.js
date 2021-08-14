@@ -10,6 +10,7 @@ const signUp = lazy(() => import('../component/SignUp'));
 const Login = lazy(() => import('../component/Login'));
 const userList = lazy(()=> import('../component/userList'));
 
+
 const Routes = () => {
   console.log('Routes called');
   return (
